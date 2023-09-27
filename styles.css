@@ -1,0 +1,10 @@
+#bio {
+    text-align: center;
+}
+
+#bio h2,
+#bio p {
+    color: darkblue;
+    font-weight: bold;
+}
+
